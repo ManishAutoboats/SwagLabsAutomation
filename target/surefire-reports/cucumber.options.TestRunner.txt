@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: cucumber.options.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32.039 s <<< FAILURE! - in cucumber.options.TestRunner
+checkout Funtionality.checkout with valid firstname lastname and postalcode  Time elapsed: 6.525 s  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at pages.CheckoutPage.Validate_user_navigate_to_checkout_two_page(CheckoutPage.java:28)
+	at stepDefination.CheckoutPageSteps.Validate_user_navigate_to_checkout_two_page(CheckoutPageSteps.java:23)
+	at ✽.Validate user navigate to checkout two page(file:///D:/AutomationWork/UITestAutomation/src/test/java/features/checkout.feature:13)
+
