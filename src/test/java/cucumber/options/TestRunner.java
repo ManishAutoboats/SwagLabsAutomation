@@ -14,5 +14,6 @@ public class TestRunner {
 	//dryRun
 	//monochrome
 	//test automaton
+	//TestPlaywright
 
 }
