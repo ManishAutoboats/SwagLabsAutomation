@@ -15,6 +15,12 @@ public class TestRunner {
 	//monochrome
 	//test automaton
 	//TestPlaywright
+
     //Test Automation Selenium
 	//Test Manual Testing
+
+	//TestCypress
+	//Test Ranorex
+
+
 }
