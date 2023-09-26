@@ -16,5 +16,6 @@ public class TestRunner {
 	//test automaton
 	//TestPlaywright
 	//TestCypress
+	//Test Ranorex
 
 }
